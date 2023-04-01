@@ -15,9 +15,9 @@ File Structure
 
 Our project will consist of the following files:
 
-    index.html: This is the main HTML file that will contain the game board and other UI elements.
-    style.css: This file will contain the CSS styles for our game.
-    script.js: This file will contain the JavaScript code that will handle the game logic.
+ index.html: This is the main HTML file that will contain the game board and other UI elements.
+ style.css: This file will contain the CSS styles for our game.
+ main.js: This file will contain the JavaScript code that will handle the game logic.
 
 HTML Structure
 
@@ -44,5 +44,9 @@ JavaScript Code
 
 Our script.js file will contain the following code:
 ![js](https://user-images.githubusercontent.com/120910923/229304877-afa1a6fb-a61c-4bea-ae1f-a6ee1dfbccee.png)
+
+Result
+![result](https://user-images.githubusercontent.com/120910923/229305032-209e71c7-aa20-4a03-9af5-c2c1b043499c.png)
+
 
 
