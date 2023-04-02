@@ -28,7 +28,7 @@ We have a title element that sets the title of the page to "Tic Tac Toe". We als
 
 In the body element, we have a div element with the id of "game-board". This is where our game board will be displayed. Inside the game-board div, we have nine div elements with the class of "square". These are the individual squares that make up our game board.
 
-Finally, we have a script element that links to our script.js file, which contains the JavaScript code that will handle our game logic
+Finally, we have a script element that links to our main.js file, which contains the JavaScript code that will handle our game logic
 
 CSS Styles
 
